@@ -1,4 +1,14 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Vab-List
+A list generation app that can be used to as a todo app.(Developed as a part of learning.)
+*Used Router, Prop-Types, JSONPlaceholder todos API(Faker-API for data handling), Axios library for handling requests. 
+
+### `npm install`
+Run after downloading the repository in main folder to download all the dependencies
+
+
+
+### Deployment
+Only build folder is to be deployed as final app.
 
 ## Available Scripts
 
